@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056468466701",
+    "project_id": "ryankweek12authmlstyling",
+    "storage_bucket": "ryankweek12authmlstyling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056468466701:android:47df136c39ed3723c7e944",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056468466701-g1c1c2slbksu7f33bqj4prj628leb4l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.farmingdale.alrajab.week12_auth_ml_api_demo",
+            "certificate_hash": "638588797a750d6d66e55e3305d76817c1649d12"
+          }
+        },
+        {
+          "client_id": "1056468466701-0tsvvhod0tcfl17fgfjhm5nsrt6r3fjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQG-dbNytVAQ5_wyugX_2sRAxIP42bkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056468466701-0tsvvhod0tcfl17fgfjhm5nsrt6r3fjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
