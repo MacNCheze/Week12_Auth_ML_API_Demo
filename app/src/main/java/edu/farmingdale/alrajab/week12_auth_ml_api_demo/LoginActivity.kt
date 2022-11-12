@@ -26,8 +26,8 @@ class LoginActivity : AppCompatActivity() {
             login();
         }
         binding.googlelogo.setOnClickListener {
-            val intent = Intent(this, GoogleSignInActivity::class.java)
-            startActivity(intent)
+            val intent2 = Intent(this, GoogleSignInActivity::class.java)
+            startActivity(intent2)
         }
     }
 
