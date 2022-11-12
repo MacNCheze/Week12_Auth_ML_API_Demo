@@ -25,7 +25,7 @@ class LandingActivity : AppCompatActivity() {
         firebaseAuth = FirebaseAuth.getInstance()
 
 
-        imageView = findViewById(R.id.imageView)
+        imageView = findViewById(R.id.image_holder)
         button = findViewById(R.id.load_iamge_btn)
         button.setOnClickListener {
             val gallery = Intent(Intent.ACTION_PICK, MediaStore.Images.Media.INTERNAL_CONTENT_URI)
